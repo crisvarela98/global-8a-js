@@ -83,6 +83,7 @@ function saludar () {
     alert(`Hola ${nombre}, tu edad es de ${2023-anio_nac}`)
 }
 
+
 //*Una vez creada la funcion debe INVOCARLA/LLAMARLA para que su bloque de codigo se EJECUTE
 saludar()
 alert("funcion ejecutada ok")
